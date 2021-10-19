@@ -40,9 +40,11 @@ https://ieee-dataport.org/open-access/sen12-flood-sar-and-multispectral-dataset-
 
 1. Run the sentinal_1.py python code on Anaconda
 
-2. Run sentinal_2.py python code on Anaconda
+2. Run the sentinal_1.py python code on Anaconda
 
-3. Run fusion.py python code on Anaconda
+3. Run sentinal_2.py python code on Anaconda
+
+4. Run fusion.py python code on Anaconda
 
 
 
